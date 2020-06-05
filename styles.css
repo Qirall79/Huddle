@@ -1,5 +1,5 @@
 #container{
-    background-image: url(images/bg-hero-desktop.svg);
+    background-image: url(bg-hero-desktop.svg);
     background-size: cover;
     width: 100%;
     height: 750px;
@@ -25,6 +25,7 @@
     left: 100px;
     
 }
+
 .mockups img{
     width: 170%;
 }
@@ -48,6 +49,7 @@ h1{
     padding: 10px 60px;
     margin-top: 20px;
 }
+
 .three-divs{
     width: 80%;
     height: 500px;
